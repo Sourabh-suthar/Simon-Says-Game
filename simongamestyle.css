@@ -1,0 +1,38 @@
+body{
+    text-align: center; 
+    background-color: #cbd5f1;
+    
+}
+.btn-contanier{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+   
+    margin: 3px;
+}
+.red{
+    background-color: #d95980;
+    border-top-left-radius: 100%;
+}
+.yellow{
+    background-color: #f99b45;
+    border-bottom-left-radius: 100%;
+}
+.green{
+    background-color: #63aac0;
+    border-top-right-radius: 100%;
+}
+.purple{
+    background-color: #819ff9;
+    border-bottom-right-radius: 100%;
+}
+.flash{
+    background-color: #fff;
+}
+.userflash{
+    background-color: rgb(86, 255, 92);
+}
